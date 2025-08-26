@@ -1,0 +1,31 @@
+
+				
+				
+a	b	0	c	d
+esti	21	01752	mia	Dhaka
+mazibar	70	0191	Tnagail	Tangail78A negative (A-)
+				
+aaa	bbb	ccc	ddd	eee
+estiyak	20	01752094290	Mia-Bari	Dhaka
+sajid	22	011111	1222222	33333
+shajid	23	01881	chaktai	chittagong
+				
+				
+abu	70	0188888	pasher bari	kashempur
+aaaa	12	017	mia	tangail
+nahid	50	0177777777777	21211212121221	borisal
+				
+nahid	20	123456789	dhaka	dhaka
+nahid	20	000	bb	bb
+				
+				
+2	2	2	2	2
+				
+				
+5	8	8	8	5
+2	20	111	nn	nn
+n	o	kik	j	k
+				
+				
+d				
+g	20	20	dhaka	dhaka
